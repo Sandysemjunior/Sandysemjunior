@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindo ao meu perfil solo 🎤
 
-<!--
-**Sandysemjunior/Sandysemjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sandy Leahh
 
-Here are some ideas to get you started:
+- Estou acompanhando as aulas do Alura,sem o meu parceiro Junior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou desenvolvendo as minhas aulas de canto pelo pc.
+
+- Utilizo esse espaço para ampliar meus dons vocais e compartilhar com vocês fâs.
+
+## Você pode me mandar suas composiçôes pelo 📫
+Sandyrevoltadacomjunior@.com
+
+![](https://media.tenor.com/U-4uDJ2z_AEAAAAM/sandy-as-brasileiras.gif)
+
